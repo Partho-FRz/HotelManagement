@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "Booking";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<div class="container-fluid bg">
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-xs-12"></div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+            <form method="post" enctype="multipart/form-data" data-toggle="validator">
+
+                <div>
+                    <img src="@Session["image2"]" style="max-width:300px;max-height:300px" />
+                    <br />
+                </div>
+
+                <div class="form-group">
+                    <label>Room No</label>
+                    <label>@ViewBag.Data.RoomNo</label>
+                    <input type="text" class="form-group" name="RoomNo" value="@ViewBag.Data.RoomNo" readonly hidden />
+                </div>
+                <div class="form-group">
+                    <label>Room Type</label>
+                    <label>@ViewBag.Data.RoomType</label>
+                </div>
+                <div class="form-group">
+                    <label>Number of Bed</label>
+                    <label>@ViewBag.Data.NoOfBed</label>
+                </div>
+                <div class="form-group">
+                    <label>Price</label><br />
+                    <label>@ViewBag.Data.Price</label>
+                </div>
+
+                <div class="form-group">
+                    <label>Bed Type</label><br />
+                    <label>@ViewBag.Data.BedType</label>
+                </div>
+                <div class="form-group">
+                    <label>Max Person</label><br />
+                    <label>@ViewBag.Data.MaxPerson</label>
+                </div>
+                <div class="form-group">
+                    <label>Client Name</label><br />
+                    <input type="text" class="form-group" name="ClientName" required />
+                </div>
+                <div class="form-group">
+                    <label>Client Email</label><br />
+                    <input type="text" class="form-group" name="ClientEmail" required />
+                </div>
+                <div class="form-group">
+                    <label>Client Phone</label><br />
+                    <input type="number" class="form-group" name="ClientNumber" required />
+                </div>
+                <div class="form-group">
+                    <label>Upload NID Picture</label>
+                    <input type="file" name="file1" id="file1" accept="image/*" required />
+                    <span class="help-block"></span>
+
+                </div>
+                <div class="form-group">
+                    <label>Total Person</label><br />
+                    <input type="number" class="form-group" name="TotalPerson" min="1" max="@ViewBag.Data.MaxPerson" required />
+                </div>
+                <div class="form-group">
+                    <label>Payment</label><br />
+                    <input type="number" class="form-group" name="Payment" min="1" max="@ViewBag.Data.Price" value="@ViewBag.Data.Price" required />
+                </div>
+
+
+                <div>
+                    <button type="submit" class="btn btn-success ">Confirm </button>
+
+                    <a href="/Panel/Profile">Cancel</a>
+                </div>
+
+            </form>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12"></div>
+    </div>
+</div>
+

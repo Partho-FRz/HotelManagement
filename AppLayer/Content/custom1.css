@@ -1,0 +1,34 @@
+﻿body, html {
+    height: 100%;
+}
+
+a {
+    color: white;
+}
+
+.bg {
+    background-image: url('Image/hotel.jpg');
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#log {
+    padding: 60px 40px;
+    margin-top: 10%;
+    
+}
+
+label {
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -20px;
+}

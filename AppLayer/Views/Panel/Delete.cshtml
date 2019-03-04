@@ -1,0 +1,62 @@
+﻿@model IEnumerable<HMSEntity.Employee>
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<form method="post">
+    <h1>Employee List</h1>
+    <table class="table">
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                User Type
+            </th>
+
+
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+
+            <tr class="Search">
+                <td>
+                    <a href="/Panel/ConfirmDelete/@item.UserId" new { id=item.UserId }>@Html.DisplayFor(modelItem => item.FirstName)</a>
+
+                    <a href="/Panel/ConfirmDelete/@item.UserId">@Html.DisplayFor(modelItem => item.LastName)</a>
+                </td>
+                <td>
+                    <a href="/Panel/ConfirmDelete/@item.UserId">@Html.DisplayFor(modelItem => item.UserType)</a>
+                </td>
+
+
+
+            </tr>
+        }
+
+    </table>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            function Contains(text_one, text_two) {
+                if (text_one.indexOf(text_two) != -1)
+                    return true;
+            }
+            $("#search").keyup(function () {
+                var searchText = $("#search").val().toLowerCase();
+                $(".Search").each(function () {
+                    if (!Contains($(this).text().toLowerCase(), searchText)) {
+                        $(this).hide();
+                    }
+                    else {
+                        $(this).show();
+                    }
+
+                });
+            });
+        });
+    </script>
+</form>

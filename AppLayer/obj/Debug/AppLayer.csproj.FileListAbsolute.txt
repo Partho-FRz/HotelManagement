@@ -1,0 +1,416 @@
+D:\UBEDev\HotelManagement\AppLayer\bin\ApplicationInsights.config
+D:\UBEDev\HotelManagement\AppLayer\bin\AppLayer.dll.config
+D:\UBEDev\HotelManagement\AppLayer\bin\AppLayer.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\AppLayer.pdb
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\csc.exe
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\csc.exe.config
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\csc.rsp
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\csi.exe
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\csi.exe.config
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\csi.rsp
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.AppContext.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Collections.Immutable.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Console.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.IO.Compression.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Reflection.Metadata.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Security.AccessControl.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Security.Claims.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Security.Principal.Windows.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.ValueTuple.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\vbc.exe
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\vbc.exe.config
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\vbc.rsp
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe
+D:\UBEDev\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe.config
+D:\UBEDev\HotelManagement\AppLayer\bin\Antlr3.Runtime.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\EntityFramework.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSEntity.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSService.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.Agent.Intercept.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.Web.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.ApplicationInsights.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.Web.Infrastructure.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\Newtonsoft.Json.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Helpers.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Mvc.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Optimization.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Razor.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.WebPages.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\WebGrease.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSRepo.dll
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSEntity.pdb
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSEntity.dll.config
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSService.pdb
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSService.dll.config
+D:\UBEDev\HotelManagement\AppLayer\bin\EntityFramework.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.Web.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\Newtonsoft.Json.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Helpers.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Mvc.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Razor.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.WebPages.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\System.Web.Optimization.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\Antlr3.Runtime.pdb
+D:\UBEDev\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSRepo.pdb
+D:\UBEDev\HotelManagement\AppLayer\bin\HMSRepo.dll.config
+D:\UBEDev\HotelManagement\AppLayer\obj\Debug\AppLayer.csprojAssemblyReference.cache
+D:\UBEDev\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+D:\UBEDev\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CopyComplete
+D:\UBEDev\HotelManagement\AppLayer\obj\Debug\AppLayer.dll
+D:\UBEDev\HotelManagement\AppLayer\obj\Debug\AppLayer.pdb
+E:\UBEDEV\HotelManagement\AppLayer\bin\ApplicationInsights.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\AppLayer.dll.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\AppLayer.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\AppLayer.pdb
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csc.exe
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csc.exe.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csc.rsp
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csi.exe
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csi.exe.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csi.rsp
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.AppContext.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Collections.Immutable.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Console.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Compression.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Reflection.Metadata.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.AccessControl.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Claims.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Principal.Windows.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.ValueTuple.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\vbc.exe
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\vbc.exe.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\vbc.rsp
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe
+E:\UBEDEV\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\Antlr3.Runtime.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSEntity.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSService.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.Agent.Intercept.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.Web.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.ApplicationInsights.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.Web.Infrastructure.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\Newtonsoft.Json.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Helpers.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Mvc.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Optimization.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Razor.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\WebGrease.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSRepo.dll
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSEntity.pdb
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSEntity.dll.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSService.pdb
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSService.dll.config
+E:\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.Web.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\Newtonsoft.Json.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Helpers.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Mvc.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Razor.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Optimization.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\Antlr3.Runtime.pdb
+E:\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSRepo.pdb
+E:\UBEDEV\HotelManagement\AppLayer\bin\HMSRepo.dll.config
+E:\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csprojAssemblyReference.cache
+E:\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+E:\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CopyComplete
+E:\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.dll
+E:\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.pdb
+C:\Tools\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csprojAssemblyReference.cache
+C:\Tools\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\ApplicationInsights.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\AppLayer.dll.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\AppLayer.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\AppLayer.pdb
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csc.exe
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csc.exe.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csc.rsp
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csi.exe
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csi.exe.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\csi.rsp
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.AppContext.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Console.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Compression.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Claims.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.ValueTuple.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\vbc.exe
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\vbc.exe.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\vbc.rsp
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Antlr3.Runtime.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSEntity.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSService.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.Web.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Newtonsoft.Json.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Helpers.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Mvc.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Optimization.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Razor.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\WebGrease.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSRepo.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSEntity.pdb
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSEntity.dll.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSService.pdb
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSService.dll.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.Web.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Newtonsoft.Json.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Helpers.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Mvc.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Razor.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\System.Web.Optimization.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Antlr3.Runtime.pdb
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSRepo.pdb
+C:\Tools\UBEDEV\HotelManagement\AppLayer\bin\HMSRepo.dll.config
+C:\Tools\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CopyComplete
+C:\Tools\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.dll
+C:\Tools\UBEDEV\HotelManagement\AppLayer\obj\Debug\AppLayer.pdb
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\ApplicationInsights.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\AppLayer.dll.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\AppLayer.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\AppLayer.pdb
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\csc.exe
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\csc.exe.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\csc.rsp
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\csi.exe
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\csi.exe.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\csi.rsp
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.AppContext.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Console.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Compression.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Claims.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.ValueTuple.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\vbc.exe
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\vbc.exe.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\vbc.rsp
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Antlr3.Runtime.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\EntityFramework.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSEntity.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSService.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.Web.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Newtonsoft.Json.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Helpers.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Mvc.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Optimization.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Razor.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.WebPages.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\WebGrease.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSRepo.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSEntity.pdb
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSEntity.dll.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSService.pdb
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSService.dll.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\EntityFramework.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\EntityFramework.SqlServer.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.Web.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Newtonsoft.Json.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Helpers.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Mvc.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Razor.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.WebPages.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Deployment.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.WebPages.Razor.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\System.Web.Optimization.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Antlr3.Runtime.pdb
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSRepo.pdb
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\bin\HMSRepo.dll.config
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csprojAssemblyReference.cache
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\obj\Debug\AppLayer.csproj.CopyComplete
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\obj\Debug\AppLayer.dll
+C:\Source Code\UBE DEV\HotelManagement\AppLayer\obj\Debug\AppLayer.pdb

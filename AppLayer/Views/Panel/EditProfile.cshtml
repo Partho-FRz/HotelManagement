@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "EditProfile";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+<head>
+    <link href="~/Content/custom1.css" rel="stylesheet" />
+</head>
+<div class="container-fluid bg">
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-xs-12"></div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+            <form method="post" enctype="multipart/form-data" data-toggle="validator">
+                <div class="form-group">
+                    <label>First Name</label>
+                    <input type="text" value="@ViewBag.data.FirstName" class="form-control" name="FirstName" required />
+                </div>
+                <div class="form-group">
+                    <label>Last Name</label>
+                    <input type="text" value="@ViewBag.data.LastName" class="form-control" name="LastName" required />
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" value="@ViewBag.data.Email" class="form-control" name="Email" required />
+                </div>
+                <div class="form-group">
+                    <label>Address</label><br />
+                    <input type="text" value="@ViewBag.data.Address" class="form-group" name="Address" required />
+                </div>
+
+                <div class="form-group">
+                    <label>Mobile Number</label><br />
+                    <input type="number" class="form-group" name="MobileNo" value="@ViewBag.data.MobileNo" required />
+                </div>
+                <div class="form-group">
+                    <label>Password</label><br />
+                    <input width="1000" type="password" class="form-group" name="Password" id="Password" required placeholder="Password" />
+                </div>
+                <div class="form-group">
+                    <label>Confirm Password</label><br />
+                    <input type="password" class="form-group" name="ConfirmPassword" id="ConfirmPassword" placeholder="Confirm Password" required />
+                </div>
+                <div>
+                    <img src="@Session["img"]" style="max-width:300px;max-height:300px" />
+                    <br />
+                </div>
+                <div class="form-group">
+                    <label>Change Profile Picture</label>
+                    <input type="file" name="file1" id="file1" accept="image/*" required />
+                    <span class="help-block"></span>
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-success ">Create </button>
+                    
+                    <a href="/Panel/Profile">Cancel</a>
+                </div>
+                <script>
+                    var password = document.getElementById("Password"), confirm_password = document.getElementById("ConfirmPassword");
+                    function validatePassword() {
+                        if (password.value != confirm_password.value) {
+                            confirm_password.setCustomValidity("Password do not Match");
+                        }
+                        else {
+                            confirm_password.setCustomValidity('');
+                        }
+                    }
+                    password.onchange = validatePassword;
+                    confirm_password.onkeyup = validatePassword;
+                </script>
+            </form>
+            </div>
+        </div>
+    </div>
+

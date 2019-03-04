@@ -1,0 +1,69 @@
+﻿@model IEnumerable<HMSEntity.Room>
+@{
+    ViewBag.Title = "ViewRoom";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+<form method="post">
+    <h1>Room List</h1>
+    <table class="table">
+        <tr>
+            <th>
+                Room Number
+            </th>
+            <th>
+                Status
+            </th>
+            <th>
+                Type
+            </th>
+
+
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+
+
+            <tr class="Search">
+                <td>
+                    <a href="/Panel/RoomDetails/@item.RoomNo" new { id=item.UserId }>@Html.DisplayFor(modelItem => item.RoomNo)</a>
+
+
+                </td>
+                <td>
+                    <a href="/Panel/RoomDetails/@item.RoomNo">@Html.DisplayFor(modelItem => item.Status)</a>
+                </td>
+                <td>
+                    <a href="/Panel/RoomDetails/@item.RoomNo">@Html.DisplayFor(modelItem => item.RoomType)</a>
+                </td>
+
+
+
+            </tr>
+
+        }
+
+    </table>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            function Contains(text_one, text_two) {
+                if (text_one.indexOf(text_two) != -1)
+                    return true;
+            }
+            $("#search").keyup(function () {
+                var searchText = $("#search").val().toLowerCase();
+                $(".Search").each(function () {
+                    if (!Contains($(this).text().toLowerCase(), searchText)) {
+                        $(this).hide();
+                    }
+                    else {
+                        $(this).show();
+                    }
+
+                });
+            });
+        });
+    </script>
+</form>

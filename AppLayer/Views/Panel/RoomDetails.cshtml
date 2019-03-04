@@ -1,0 +1,118 @@
+﻿@model HMSEntity.Room
+@{
+    ViewBag.Title = "RoomDetails";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<fieldset>
+    <div class="modal-body" style="margin:50px 100px 0px 200px;">
+
+        <form>
+            <br />
+            <div>
+                <img src="@Session["image2"]" style="max-width:300px;max-height:300px" />
+                <br />
+            </div>
+
+            <hr />
+            <table cellpadding="0" cellspacing="0">
+
+                <tr>
+                    <td>Room Number</td>
+                    <td>:   </td>
+                    <td>@Html.DisplayFor(model => model.RoomNo)</td>
+
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Room Type</td>
+                    <td>:   </td>
+                    <td>@Html.DisplayFor(model => model.RoomType)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Number of Bed</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.NoOfBed)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Price</td>
+                    <td>:   </td>
+                    <td>@Html.DisplayFor(model => model.Price)</td>
+                </tr>
+
+                <tr><td colspan="3"><hr /></td></tr>
+
+                <tr>
+                    <td>Status</td>
+                    <td>:   </td>
+                    <td>@Html.DisplayFor(model => model.Status)</td>
+                </tr>
+
+                @if (Model.Status == "Booked" || Model.Status == "Checked In")
+                {
+                    <tr><td colspan="3"><hr /></td></tr>
+
+                    <tr>
+                        <td>Client Name</td>
+                        <td>:   </td>
+                        <td>@Html.DisplayFor(model => model.ClientName)</td>
+                    </tr>
+                    <tr><td colspan="3"><hr /></td></tr>
+
+                    <tr>
+                        <td>Client phone</td>
+                        <td>:   </td>
+                        <td>@Html.DisplayFor(model => model.ClientPhone)</td>
+                    </tr>
+                    <tr><td colspan="3"><hr /></td></tr>
+
+                    <tr>
+                        <td>Client Email</td>
+                        <td>:   </td>
+                        <td>@Html.DisplayFor(model => model.ClientEmail)</td>
+                    </tr>
+                    <tr><td colspan="3"><hr /></td></tr>
+
+                    <tr>
+                        <td>Payment Status</td>
+                        <td>:   </td>
+                        <td>@Html.DisplayFor(model => model.PaymentStatus)</td>
+                    </tr>
+                    
+                }
+
+
+
+            </table>
+            <br />
+            <br />
+            <div class="form-group">
+                @if (Model.Status == "Available")
+                {
+
+                    <button type="submit" class="btn btn-success " formaction="/Panel/Booking/@Model.RoomNo">Book </button>
+                }
+                else if (Model.Status == "Checked In")
+                {
+                    if (Model.PaymentStatus == "Paid")
+                    {
+                        <button type="submit" class="btn btn-success " formaction="/Panel/Generic/@Model.RoomNo">Check Out </button>
+                    }
+                    else
+                    {
+                        <a href="/Panel/Clear/@Model.RoomNo">Clear Payment</a>
+                        <button type="submit" class="btn btn-warning " disabled formaction="/Panel/Generic/@Model.RoomNo">Check Out </button>
+
+                    }
+                }
+                else
+                {
+
+                    <button type="submit" class="btn btn-success " formaction="/Panel/Generic/@Model.RoomNo">Check In</button>
+                }
+            </div>
+        </form>
+    </div>
+</fieldset>

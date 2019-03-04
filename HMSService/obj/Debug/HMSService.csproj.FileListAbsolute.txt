@@ -1,0 +1,72 @@
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSService.dll.config
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSService.dll
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSService.pdb
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\EntityFramework.dll
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.dll
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSEntity.dll
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSRepo.dll
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSEntity.pdb
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSEntity.dll.config
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSRepo.pdb
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\HMSRepo.dll.config
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\EntityFramework.xml
+D:\UBEDev\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.xml
+D:\UBEDev\HotelManagement\HMSService\obj\Debug\HMSService.csprojAssemblyReference.cache
+D:\UBEDev\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CoreCompileInputs.cache
+D:\UBEDev\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CopyComplete
+D:\UBEDev\HotelManagement\HMSService\obj\Debug\HMSService.dll
+D:\UBEDev\HotelManagement\HMSService\obj\Debug\HMSService.pdb
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSService.dll.config
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSService.dll
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSService.pdb
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.dll
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.dll
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSEntity.dll
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSRepo.dll
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSEntity.pdb
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSEntity.dll.config
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSRepo.pdb
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSRepo.dll.config
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.xml
+E:\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.xml
+E:\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.csprojAssemblyReference.cache
+E:\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CoreCompileInputs.cache
+E:\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CopyComplete
+E:\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.dll
+E:\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.pdb
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSService.dll.config
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSService.dll
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSService.pdb
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.dll
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSEntity.dll
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSRepo.dll
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSEntity.pdb
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSEntity.dll.config
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSRepo.pdb
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\HMSRepo.dll.config
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.xml
+C:\Tools\UBEDEV\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tools\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.csprojAssemblyReference.cache
+C:\Tools\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CoreCompileInputs.cache
+C:\Tools\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CopyComplete
+C:\Tools\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.dll
+C:\Tools\UBEDEV\HotelManagement\HMSService\obj\Debug\HMSService.pdb
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSService.dll.config
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSService.dll
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSService.pdb
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\EntityFramework.dll
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSEntity.dll
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSRepo.dll
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSEntity.pdb
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSEntity.dll.config
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSRepo.pdb
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\HMSRepo.dll.config
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\EntityFramework.xml
+C:\Source Code\UBE DEV\HotelManagement\HMSService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source Code\UBE DEV\HotelManagement\HMSService\obj\Debug\HMSService.csprojAssemblyReference.cache
+C:\Source Code\UBE DEV\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CoreCompileInputs.cache
+C:\Source Code\UBE DEV\HotelManagement\HMSService\obj\Debug\HMSService.csproj.CopyComplete
+C:\Source Code\UBE DEV\HotelManagement\HMSService\obj\Debug\HMSService.dll
+C:\Source Code\UBE DEV\HotelManagement\HMSService\obj\Debug\HMSService.pdb

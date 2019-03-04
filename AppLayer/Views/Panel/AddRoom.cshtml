@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewBag.Title = "AddRoom";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<head>
+    <link href="~/Content/custom1.css" rel="stylesheet" />
+</head>
+<div class="container-fluid bg">
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-xs-12"></div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+            <form id="log" method="post" enctype="multipart/form-data" data-toggle="validator">
+                <div class="form-group">
+                    <label>Room Type</label>
+                    <select name="roomType" required>
+
+                        <option selected disabled>----</option>
+                        <option value="Reguler">Reguler</option>
+                        <option value="Delux">Delux</option>
+                        <option value="Suite">Suite</option>
+                        <option value="Madhuring">Madhuring</option>
+
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Room Number</label>
+                    <input type="text" name="RoomNo" class="form-control" placeholder="Room Number" required />
+                </div>
+                <div class="form-group">
+                    <label>Number Of Bed</label>
+                    <input type="text" name="NoOfBed" class="form-control" placeholder="Number Of Bed" required />
+                </div>
+                <div class="form-group">
+                    <label>Max Person</label>
+                    <input type="text" name="MaxPerson" class="form-control" placeholder="Max Person" required />
+                </div>
+                <div class="form-group">
+                    <label>Bed Type</label>
+                    <select name="BedType" required>
+
+                        <option selected disabled>----</option>
+                        <option value="Single">Single</option>
+                        <option value="Double">Double</option>
+                        
+
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Price</label>
+                    <input type="text" name="Price" class="form-control" placeholder="Price" required />
+                </div>
+                <div class="form-group">
+                    <label>Upload Image</label>
+                    <input type="file" name="file1" id="file1" accept="image/*" required />
+                    <span class="help-block"></span>
+
+                </div>
+
+                <button type="submit" class="btn btn-success ">Create </button>
+
+            </form>
+
+        </div>
+    </div>
+</div>

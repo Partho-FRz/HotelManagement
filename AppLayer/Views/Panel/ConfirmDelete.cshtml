@@ -1,0 +1,76 @@
+﻿@model HMSEntity.Employee
+@{
+    ViewBag.Title = "ConfirmDelete";
+    Layout = "~/Views/Shared/_PanelLayout.cshtml";
+}
+
+<fieldset>
+    <div class="modal-body" style="margin:50px 100px 0px 200px;">
+
+        <form >
+            <br />
+            <div>
+                <img src="@Session["image2"]" style="max-width:300px;max-height:300px" />
+                <br />
+            </div>
+
+            <hr />
+            <table cellpadding="0" cellspacing="0">
+
+                <tr>
+                    <td>FirstName</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.FirstName)</td>
+
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Last Name</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.LastName)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Login Id</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.UserId)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Email</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.Email)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+
+                <tr>
+                    <td>Date of Birth</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.DOB)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Working Since</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.WorkingSince)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Address</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.Address)</td>
+                </tr>
+                <tr><td colspan="3"><hr /></td></tr>
+                <tr>
+                    <td>Employee Type</td>
+                    <td>:</td>
+                    <td>@Html.DisplayFor(model => model.UserType)</td>
+                </tr>
+
+            </table>
+            <hr />
+            <button type="submit" class="btn-warning" formaction="/Panel/Deleted/@Model.UserId">Confirm Delete</button>
+        </form>
+    </div>
+</fieldset>
+
